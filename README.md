@@ -45,7 +45,15 @@ yarn install
 
 4. Inicie o projeto:
 
-npx expo start
+npx expo start 
+
+ou
+
+yarn start
+
+ou
+
+npm run start
 
 
 5. Use um emulador ou o aplicativo Expo Go em seu dispositivo para visualizar o app.
