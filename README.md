@@ -30,20 +30,31 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 
 1. Clone este repositório:
 
+https://github.com/jvict/vertem-react-native.git
+
 2. Navegue até a pasta do projeto:
 
-cd projeto-tarefas-ts
+```bash
+
+cd vertem-react-native
+
+```
 
 
 3. Instale as dependências:
 
+```bash
 npm install
 
 ou se você usa yarn:
+
 yarn install
+```
 
 
 4. Inicie o projeto:
+
+```bash
 
 npx expo start 
 
@@ -54,6 +65,8 @@ yarn start
 ou
 
 npm run start
+
+```
 
 
 5. Use um emulador ou o aplicativo Expo Go em seu dispositivo para visualizar o app.
