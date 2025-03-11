@@ -1,1 +1,0 @@
-# vertem-react-native
