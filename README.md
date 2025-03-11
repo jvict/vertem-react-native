@@ -31,7 +31,7 @@ Antes de começar, certifique-se de ter instalado em sua máquina:
 1. Clone este repositório:
 
 ```bash
-https://github.com/jvict/vertem-react-native.git
+git  clone https://github.com/jvict/vertem-react-native.git
 
 ```
 
