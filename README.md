@@ -37,7 +37,6 @@ https://github.com/jvict/vertem-react-native.git
 ```bash
 
 cd vertem-react-native
-
 ```
 
 
@@ -45,12 +44,12 @@ cd vertem-react-native
 
 ```bash
 npm install
-
+```
 ou se você usa yarn:
 
+```bash
 yarn install
 ```
-
 
 4. Inicie o projeto:
 
@@ -58,12 +57,16 @@ yarn install
 
 npx expo start 
 
-ou
+```
+ou 
 
+```bash
 yarn start
 
+```
 ou
 
+```bash
 npm run start
 
 ```
@@ -71,7 +74,6 @@ npm run start
 
 5. Use um emulador ou o aplicativo Expo Go em seu dispositivo para visualizar o app.
 
-## Estrutura do Projeto
 
 ## Componentes Principais
 
